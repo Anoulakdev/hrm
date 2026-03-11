@@ -29,7 +29,7 @@ let refreshSubscribers: ((token: string) => void)[] = [];
 
 export const externalApi: AxiosInstance = axios.create({
   baseURL: process.env.URL_API,
-  timeout: 5000,
+  timeout: 30000,
   headers: {
     'Content-Type': 'application/json',
   },
