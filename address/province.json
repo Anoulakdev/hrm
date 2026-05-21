@@ -1,0 +1,92 @@
+[
+  {
+    "p_id": 1,
+    "p_name": "ນະຄອນຫລວງວຽງຈັນ",
+    "p_name_en": "Vientiane capital"
+  },
+  {
+    "p_id": 2,
+    "p_name": "ຜົ້ງສາລີ",
+    "p_name_en": "Phongsali"
+  },
+  {
+    "p_id": 3,
+    "p_name": "ຫລວງນ້ຳທາ",
+    "p_name_en": "Louang Namtha"
+  },
+  {
+    "p_id": 4,
+    "p_name": "ອຸດົມໄຊ",
+    "p_name_en": "Oudomxai"
+  },
+  {
+    "p_id": 5,
+    "p_name": "ບໍ່ແກ້ວ",
+    "p_name_en": "Bokeo"
+  },
+  {
+    "p_id": 6,
+    "p_name": "ຫຼວງພະບາງ",
+    "p_name_en": "Louang Phabang"
+  },
+  {
+    "p_id": 7,
+    "p_name": "ຫົວພັນ",
+    "p_name_en": "Houaphan"
+  },
+  {
+    "p_id": 8,
+    "p_name": "ໄຊຍະບູລີ",
+    "p_name_en": "Xaignabouli"
+  },
+  {
+    "p_id": 9,
+    "p_name": "ຊຽງຂວາງ",
+    "p_name_en": "Xiangkhoang"
+  },
+  {
+    "p_id": 10,
+    "p_name": "ວຽງຈັນ",
+    "p_name_en": "Vientiane"
+  },
+  {
+    "p_id": 11,
+    "p_name": "ບໍລິຄຳໄຊ",
+    "p_name_en": "Boli khamxai"
+  },
+  {
+    "p_id": 12,
+    "p_name": "ຄຳມ່ວນ",
+    "p_name_en": "Khammouan"
+  },
+  {
+    "p_id": 13,
+    "p_name": "ສະຫວັນນະເຂດ",
+    "p_name_en": "Savannakhet"
+  },
+  {
+    "p_id": 14,
+    "p_name": "ສາລະວັນ",
+    "p_name_en": "Salavan"
+  },
+  {
+    "p_id": 15,
+    "p_name": "ເຊກອງ",
+    "p_name_en": "Xekong"
+  },
+  {
+    "p_id": 16,
+    "p_name": "ຈຳປາສັກ",
+    "p_name_en": "Champasak"
+  },
+  {
+    "p_id": 17,
+    "p_name": "ອັດຕະປື",
+    "p_name_en": "Attapu"
+  },
+  {
+    "p_id": 18,
+    "p_name": "ໄຊສົມບູນ",
+    "p_name_en": "Sisomboun"
+  }
+]

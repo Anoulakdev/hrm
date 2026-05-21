@@ -1,0 +1,890 @@
+[
+  {
+    "d_id": 101,
+    "d_name": "ຈັນທະບູລີ",
+    "d_name_en": "Chanthabuly",
+    "p_id": 1
+  },
+  {
+    "d_id": 102,
+    "d_name": "ສີໂຄດຕະບອງ",
+    "d_name_en": "Sikhottabong",
+    "p_id": 1
+  },
+  {
+    "d_id": 103,
+    "d_name": "ໄຊເສດຖາ",
+    "d_name_en": "Xaysetha",
+    "p_id": 1
+  },
+  {
+    "d_id": 104,
+    "d_name": "ສີສັດຕະນາກ",
+    "d_name_en": "Sisattanak",
+    "p_id": 1
+  },
+  {
+    "d_id": 105,
+    "d_name": "ນາຊາຍທອງ",
+    "d_name_en": "Naxaithong",
+    "p_id": 1
+  },
+  {
+    "d_id": 106,
+    "d_name": "ໄຊທານີ",
+    "d_name_en": "Xaythany",
+    "p_id": 1
+  },
+  {
+    "d_id": 107,
+    "d_name": "ຫາດຊາຍຟອງ",
+    "d_name_en": "Hadxaifong",
+    "p_id": 1
+  },
+  {
+    "d_id": 108,
+    "d_name": "ສັງທອງ",
+    "d_name_en": "Sangthong",
+    "p_id": 1
+  },
+  {
+    "d_id": 109,
+    "d_name": "ປາກງື່ມ",
+    "d_name_en": "Parkngum",
+    "p_id": 1
+  },
+  {
+    "d_id": 201,
+    "d_name": "ຜົ້ງສາລີ",
+    "d_name_en": "Phongsaly",
+    "p_id": 2
+  },
+  {
+    "d_id": 202,
+    "d_name": "ໃຫມ່",
+    "d_name_en": "May",
+    "p_id": 2
+  },
+  {
+    "d_id": 203,
+    "d_name": "ຂວາ",
+    "d_name_en": "Khua",
+    "p_id": 2
+  },
+  {
+    "d_id": 204,
+    "d_name": "ສຳພັນ",
+    "d_name_en": "Samphanh",
+    "p_id": 2
+  },
+  {
+    "d_id": 205,
+    "d_name": "ບູນເຫນືອ",
+    "d_name_en": "Bounneua",
+    "p_id": 2
+  },
+  {
+    "d_id": 206,
+    "d_name": "ຍອດອູ",
+    "d_name_en": "Nhot ou",
+    "p_id": 2
+  },
+  {
+    "d_id": 207,
+    "d_name": "ບູນໃຕ້",
+    "d_name_en": "Boontai",
+    "p_id": 2
+  },
+  {
+    "d_id": 301,
+    "d_name": "ຫລວງນ້ຳທາ",
+    "d_name_en": "Luangnamtha",
+    "p_id": 3
+  },
+  {
+    "d_id": 302,
+    "d_name": "ສິງ",
+    "d_name_en": "Sing",
+    "p_id": 3
+  },
+  {
+    "d_id": 303,
+    "d_name": "ລອງ",
+    "d_name_en": "Long",
+    "p_id": 3
+  },
+  {
+    "d_id": 304,
+    "d_name": "ວຽງພູຄາ",
+    "d_name_en": "Viengphoukha",
+    "p_id": 3
+  },
+  {
+    "d_id": 305,
+    "d_name": "ນາແລ",
+    "d_name_en": "Nalae",
+    "p_id": 3
+  },
+  {
+    "d_id": 401,
+    "d_name": "ໄຊ",
+    "d_name_en": "Xay",
+    "p_id": 4
+  },
+  {
+    "d_id": 402,
+    "d_name": "ຫລາ",
+    "d_name_en": "La",
+    "p_id": 4
+  },
+  {
+    "d_id": 403,
+    "d_name": "ນາໝໍ້",
+    "d_name_en": "Namor",
+    "p_id": 4
+  },
+  {
+    "d_id": 404,
+    "d_name": "ງາ",
+    "d_name_en": "Nga",
+    "p_id": 4
+  },
+  {
+    "d_id": 405,
+    "d_name": "ແບງ",
+    "d_name_en": "Beng",
+    "p_id": 4
+  },
+  {
+    "d_id": 406,
+    "d_name": "ຮຸນ",
+    "d_name_en": "Hoon",
+    "p_id": 4
+  },
+  {
+    "d_id": 407,
+    "d_name": "ປາກແບງ",
+    "d_name_en": "Pakbeng",
+    "p_id": 4
+  },
+  {
+    "d_id": 501,
+    "d_name": "ຫ້ວຍຊາຍ",
+    "d_name_en": "Houixay",
+    "p_id": 5
+  },
+  {
+    "d_id": 502,
+    "d_name": "ຕົ້ນເຜິ້ງ",
+    "d_name_en": "Tongpheung",
+    "p_id": 5
+  },
+  {
+    "d_id": 503,
+    "d_name": "ເມິງ",
+    "d_name_en": "Meung",
+    "p_id": 5
+  },
+  {
+    "d_id": 504,
+    "d_name": "ຜາອຸດົມ",
+    "d_name_en": "Phaoudom",
+    "p_id": 5
+  },
+  {
+    "d_id": 505,
+    "d_name": "ປາກທາ",
+    "d_name_en": "Paktha",
+    "p_id": 5
+  },
+  {
+    "d_id": 601,
+    "d_name": "ຫຼວງພະບາງ",
+    "d_name_en": "Luangprabang",
+    "p_id": 6
+  },
+  {
+    "d_id": 602,
+    "d_name": "ຊຽງເງິນ",
+    "d_name_en": "Xiengngeun",
+    "p_id": 6
+  },
+  {
+    "d_id": 603,
+    "d_name": "ນານ",
+    "d_name_en": "Nan",
+    "p_id": 6
+  },
+  {
+    "d_id": 604,
+    "d_name": "ປາກອູ",
+    "d_name_en": "Parkou",
+    "p_id": 6
+  },
+  {
+    "d_id": 605,
+    "d_name": "ນ້ຳບາກ",
+    "d_name_en": "Nambak",
+    "p_id": 6
+  },
+  {
+    "d_id": 606,
+    "d_name": "ງອຍ",
+    "d_name_en": "Ngoi",
+    "p_id": 6
+  },
+  {
+    "d_id": 607,
+    "d_name": "ປາກແຊງ",
+    "d_name_en": "Pakxeng",
+    "p_id": 6
+  },
+  {
+    "d_id": 608,
+    "d_name": "ໂພນໄຊ",
+    "d_name_en": "Phonxay",
+    "p_id": 6
+  },
+  {
+    "d_id": 609,
+    "d_name": "ຈອມເພັດ",
+    "d_name_en": "Chomphet",
+    "p_id": 6
+  },
+  {
+    "d_id": 610,
+    "d_name": "ວຽງຄຳ",
+    "d_name_en": "Viengkham",
+    "p_id": 6
+  },
+  {
+    "d_id": 611,
+    "d_name": "ພູຄູນ",
+    "d_name_en": "Phoukhoune",
+    "p_id": 6
+  },
+  {
+    "d_id": 612,
+    "d_name": "ໂພນທອງ",
+    "d_name_en": "Phonthong",
+    "p_id": 6
+  },
+  {
+    "d_id": 701,
+    "d_name": "ຊຳເໜືອ",
+    "d_name_en": "Xamneua",
+    "p_id": 7
+  },
+  {
+    "d_id": 702,
+    "d_name": "ຊຽງຄໍ້",
+    "d_name_en": "Xiengkhor",
+    "p_id": 7
+  },
+  {
+    "d_id": 703,
+    "d_name": "ຮ້ຽມ",
+    "d_name_en": "Hiam",
+    "p_id": 7
+  },
+  {
+    "d_id": 704,
+    "d_name": "ວຽງໄຊ",
+    "d_name_en": "Viengxay",
+    "p_id": 7
+  },
+  {
+    "d_id": 705,
+    "d_name": "ຫົວເມືອງ",
+    "d_name_en": "Huameuang",
+    "p_id": 7
+  },
+  {
+    "d_id": 706,
+    "d_name": "ຊຳໃຕ້",
+    "d_name_en": "Xamtay",
+    "p_id": 7
+  },
+  {
+    "d_id": 707,
+    "d_name": "ສົບເບົາ",
+    "d_name_en": "Sopbao",
+    "p_id": 7
+  },
+  {
+    "d_id": 708,
+    "d_name": "ແອດ",
+    "d_name_en": "Add",
+    "p_id": 7
+  },
+  {
+    "d_id": 709,
+    "d_name": "ກວັນ",
+    "d_name_en": "Kuan",
+    "p_id": 7
+  },
+  {
+    "d_id": 710,
+    "d_name": "ຊອນ",
+    "d_name_en": "Xone",
+    "p_id": 7
+  },
+  {
+    "d_id": 801,
+    "d_name": "ໄຊຍະບູລີ",
+    "d_name_en": "Xayabury",
+    "p_id": 8
+  },
+  {
+    "d_id": 802,
+    "d_name": "ຄອບ",
+    "d_name_en": "Khop",
+    "p_id": 8
+  },
+  {
+    "d_id": 803,
+    "d_name": "ຫົງສາ",
+    "d_name_en": "Hongsa",
+    "p_id": 8
+  },
+  {
+    "d_id": 804,
+    "d_name": "ເງິນ",
+    "d_name_en": "Ngeun",
+    "p_id": 8
+  },
+  {
+    "d_id": 805,
+    "d_name": "ຊຽງຮ່ອນ",
+    "d_name_en": "Xienghone",
+    "p_id": 8
+  },
+  {
+    "d_id": 806,
+    "d_name": "ພຽງ",
+    "d_name_en": "Phieng",
+    "p_id": 8
+  },
+  {
+    "d_id": 807,
+    "d_name": "ປາກລາຍ",
+    "d_name_en": "Parklai",
+    "p_id": 8
+  },
+  {
+    "d_id": 808,
+    "d_name": "ແກ່ນທ້າວ",
+    "d_name_en": "Kenethao",
+    "p_id": 8
+  },
+  {
+    "d_id": 809,
+    "d_name": "ບໍ່ແຕນ",
+    "d_name_en": "Botene",
+    "p_id": 8
+  },
+  {
+    "d_id": 810,
+    "d_name": "ທົ່ງມີໄຊ",
+    "d_name_en": "Thongmyxay",
+    "p_id": 8
+  },
+  {
+    "d_id": 811,
+    "d_name": "ໄຊຊະຖານ",
+    "d_name_en": "Xaysathan",
+    "p_id": 8
+  },
+  {
+    "d_id": 901,
+    "d_name": "ແປກ",
+    "d_name_en": "Pek",
+    "p_id": 9
+  },
+  {
+    "d_id": 902,
+    "d_name": "ຄຳ",
+    "d_name_en": "Kham",
+    "p_id": 9
+  },
+  {
+    "d_id": 903,
+    "d_name": "ໜອງແຮດ",
+    "d_name_en": "Nonghed",
+    "p_id": 9
+  },
+  {
+    "d_id": 904,
+    "d_name": "ຄູນ",
+    "d_name_en": "Khoune",
+    "p_id": 9
+  },
+  {
+    "d_id": 905,
+    "d_name": "ໝອກ",
+    "d_name_en": "Mork",
+    "p_id": 9
+  },
+  {
+    "d_id": 906,
+    "d_name": "ພູກູດ",
+    "d_name_en": "Phookood",
+    "p_id": 9
+  },
+  {
+    "d_id": 907,
+    "d_name": "ຜາໄຊ",
+    "d_name_en": "Phaxay",
+    "p_id": 9
+  },
+  {
+    "d_id": 1001,
+    "d_name": "ໂພນໂຮງ",
+    "d_name_en": "Phonhong",
+    "p_id": 10
+  },
+  {
+    "d_id": 1002,
+    "d_name": "ທຸລະຄົມ",
+    "d_name_en": "Thoulakhom",
+    "p_id": 10
+  },
+  {
+    "d_id": 1003,
+    "d_name": "ແກ້ວອຸດົມ",
+    "d_name_en": "Keooudom",
+    "p_id": 10
+  },
+  {
+    "d_id": 1004,
+    "d_name": "ກາສີ",
+    "d_name_en": "Kasy",
+    "p_id": 10
+  },
+  {
+    "d_id": 1005,
+    "d_name": "ວັງວຽງ",
+    "d_name_en": "Vangvieng",
+    "p_id": 10
+  },
+  {
+    "d_id": 1006,
+    "d_name": "ເຟືອງ",
+    "d_name_en": "Feuang",
+    "p_id": 10
+  },
+  {
+    "d_id": 1007,
+    "d_name": "ຊະນະຄາມ",
+    "d_name_en": "Xanakham",
+    "p_id": 10
+  },
+  {
+    "d_id": 1008,
+    "d_name": "ແມດ",
+    "d_name_en": "Mad",
+    "p_id": 10
+  },
+  {
+    "d_id": 1009,
+    "d_name": "ວຽງຄຳ",
+    "d_name_en": "Viengkham",
+    "p_id": 10
+  },
+  {
+    "d_id": 1010,
+    "d_name": "ຫີນເຫີບ",
+    "d_name_en": "Hinherb",
+    "p_id": 10
+  },
+  {
+    "d_id": 1012,
+    "d_name": "ໝື່ນ",
+    "d_name_en": "Meun",
+    "p_id": 10
+  },
+  {
+    "d_id": 1101,
+    "d_name": "ປາກຊັນ",
+    "d_name_en": "Pakxane",
+    "p_id": 11
+  },
+  {
+    "d_id": 1102,
+    "d_name": "ທ່າພະບາດ",
+    "d_name_en": "Thaphabath",
+    "p_id": 11
+  },
+  {
+    "d_id": 1103,
+    "d_name": "ປາກກະດິງ",
+    "d_name_en": "Pakkading",
+    "p_id": 11
+  },
+  {
+    "d_id": 1104,
+    "d_name": "ບໍລິຄັນ",
+    "d_name_en": "Bolikhanh",
+    "p_id": 11
+  },
+  {
+    "d_id": 1105,
+    "d_name": "ຄຳເກີດ",
+    "d_name_en": "Khamkheuth",
+    "p_id": 11
+  },
+  {
+    "d_id": 1106,
+    "d_name": "ວຽງທອງ",
+    "d_name_en": "Viengthong",
+    "p_id": 11
+  },
+  {
+    "d_id": 1107,
+    "d_name": "ໄຊຈຳພອນ",
+    "d_name_en": "Xaychamphone",
+    "p_id": 11
+  },
+  {
+    "d_id": 1201,
+    "d_name": "ທ່າແຂກ",
+    "d_name_en": "Thakhek",
+    "p_id": 12
+  },
+  {
+    "d_id": 1202,
+    "d_name": "ມະຫາໄຊ",
+    "d_name_en": "Mahaxay",
+    "p_id": 12
+  },
+  {
+    "d_id": 1203,
+    "d_name": "ໜອງບົກ",
+    "d_name_en": "Nongbok",
+    "p_id": 12
+  },
+  {
+    "d_id": 1204,
+    "d_name": "ຫີນບູນ",
+    "d_name_en": "Hinboon",
+    "p_id": 12
+  },
+  {
+    "d_id": 1205,
+    "d_name": "ຍົມມະລາດ",
+    "d_name_en": "Nhommalath",
+    "p_id": 12
+  },
+  {
+    "d_id": 1206,
+    "d_name": "ບົວລະພາ",
+    "d_name_en": "Bualapha",
+    "p_id": 12
+  },
+  {
+    "d_id": 1207,
+    "d_name": "ນາກາຍ",
+    "d_name_en": "Nakai",
+    "p_id": 12
+  },
+  {
+    "d_id": 1208,
+    "d_name": "ເຊບັ້ງໄຟ",
+    "d_name_en": "Xebangfay",
+    "p_id": 12
+  },
+  {
+    "d_id": 1209,
+    "d_name": "ໄຊບົວທອງ",
+    "d_name_en": "Xaybuathong",
+    "p_id": 12
+  },
+  {
+    "d_id": 1210,
+    "d_name": "ຄູນຄຳ",
+    "d_name_en": "Khounkham",
+    "p_id": 12
+  },
+  {
+    "d_id": 1301,
+    "d_name": "ໄກສອນ ພົມວິຫານ",
+    "d_name_en": "Kaisone Phomvihane",
+    "p_id": 13
+  },
+  {
+    "d_id": 1302,
+    "d_name": "ອຸທຸມພອນ",
+    "d_name_en": "Outhoumphone",
+    "p_id": 13
+  },
+  {
+    "d_id": 1303,
+    "d_name": "ອາດສະພັງທອງ",
+    "d_name_en": "Atsaphangthong",
+    "p_id": 13
+  },
+  {
+    "d_id": 1304,
+    "d_name": "ພີນ",
+    "d_name_en": "Phine",
+    "p_id": 13
+  },
+  {
+    "d_id": 1305,
+    "d_name": "ເຊໂປນ",
+    "d_name_en": "Xepon",
+    "p_id": 13
+  },
+  {
+    "d_id": 1306,
+    "d_name": "ນອງ",
+    "d_name_en": "Nong",
+    "p_id": 13
+  },
+  {
+    "d_id": 1307,
+    "d_name": "ທ່າປາງທອງ",
+    "d_name_en": "Thapangthong",
+    "p_id": 13
+  },
+  {
+    "d_id": 1308,
+    "d_name": "ສອງຄອນ",
+    "d_name_en": "Songkhone",
+    "p_id": 13
+  },
+  {
+    "d_id": 1309,
+    "d_name": "ຈຳພອນ",
+    "d_name_en": "Champhone",
+    "p_id": 13
+  },
+  {
+    "d_id": 1310,
+    "d_name": "ຊົນບູລີ",
+    "d_name_en": "Xonbuly",
+    "p_id": 13
+  },
+  {
+    "d_id": 1311,
+    "d_name": "ໄຊບູລີ",
+    "d_name_en": "Xaybouly",
+    "p_id": 13
+  },
+  {
+    "d_id": 1312,
+    "d_name": "ວິລະບູລີ",
+    "d_name_en": "Vilabuly",
+    "p_id": 13
+  },
+  {
+    "d_id": 1313,
+    "d_name": "ອາດສະພອນ",
+    "d_name_en": "Atsaphone",
+    "p_id": 13
+  },
+  {
+    "d_id": 1314,
+    "d_name": "ໄຊພູທອງ",
+    "d_name_en": "Xayphoothong",
+    "p_id": 13
+  },
+  {
+    "d_id": 1315,
+    "d_name": "ພະລານໄຊ",
+    "d_name_en": "Phalanxay",
+    "p_id": 13
+  },
+  {
+    "d_id": 1401,
+    "d_name": "ສາລະວັນ",
+    "d_name_en": "Saravane",
+    "p_id": 14
+  },
+  {
+    "d_id": 1402,
+    "d_name": "ຕາໂອ້ຍ",
+    "d_name_en": "Ta oi",
+    "p_id": 14
+  },
+  {
+    "d_id": 1403,
+    "d_name": "ຕຸ້ມລານ",
+    "d_name_en": "Toomlam",
+    "p_id": 14
+  },
+  {
+    "d_id": 1404,
+    "d_name": "ລະຄອນເພັງ",
+    "d_name_en": "Lakhonepheng",
+    "p_id": 14
+  },
+  {
+    "d_id": 1405,
+    "d_name": "ວາປີ",
+    "d_name_en": "Vapy",
+    "p_id": 14
+  },
+  {
+    "d_id": 1406,
+    "d_name": "ຄົງເຊໂດນ",
+    "d_name_en": "Kongxedone",
+    "p_id": 14
+  },
+  {
+    "d_id": 1407,
+    "d_name": "ເລົ່າງາມ",
+    "d_name_en": "Lao ngarm",
+    "p_id": 14
+  },
+  {
+    "d_id": 1408,
+    "d_name": "ສະມ້ວຍ",
+    "d_name_en": "Samoi",
+    "p_id": 14
+  },
+  {
+    "d_id": 1501,
+    "d_name": "ລະມາມ",
+    "d_name_en": "Lamarm",
+    "p_id": 15
+  },
+  {
+    "d_id": 1502,
+    "d_name": "ກະລືມ",
+    "d_name_en": "Kaleum",
+    "p_id": 15
+  },
+  {
+    "d_id": 1503,
+    "d_name": "ດາກຈຶງ",
+    "d_name_en": "Dakcheung",
+    "p_id": 15
+  },
+  {
+    "d_id": 1504,
+    "d_name": "ທ່າແຕງ",
+    "d_name_en": "Thateng",
+    "p_id": 15
+  },
+  {
+    "d_id": 1601,
+    "d_name": "ປາກເຊ",
+    "d_name_en": "Pakse",
+    "p_id": 16
+  },
+  {
+    "d_id": 1602,
+    "d_name": "ຊະນະສົມບູນ",
+    "d_name_en": "Sanasomboon",
+    "p_id": 16
+  },
+  {
+    "d_id": 1603,
+    "d_name": "ບາຈຽງຈະເລີນສຸກ",
+    "d_name_en": "Bachiangchaleunsook",
+    "p_id": 16
+  },
+  {
+    "d_id": 1604,
+    "d_name": "ປາກຊ່ອງ",
+    "d_name_en": "Pakxong",
+    "p_id": 16
+  },
+  {
+    "d_id": 1605,
+    "d_name": "ປະທຸມພອນ",
+    "d_name_en": "Pathoumphone",
+    "p_id": 16
+  },
+  {
+    "d_id": 1606,
+    "d_name": "ໂພນທອງ",
+    "d_name_en": "Phonthong",
+    "p_id": 16
+  },
+  {
+    "d_id": 1607,
+    "d_name": "ຈຳປາສັກ",
+    "d_name_en": "Champasak",
+    "p_id": 16
+  },
+  {
+    "d_id": 1608,
+    "d_name": "ສຸຂຸມາ",
+    "d_name_en": "Sukhuma",
+    "p_id": 16
+  },
+  {
+    "d_id": 1609,
+    "d_name": "ມຸນລະປະໂມກ",
+    "d_name_en": "Moonlapamok",
+    "p_id": 16
+  },
+  {
+    "d_id": 1610,
+    "d_name": "ໂຂງ",
+    "d_name_en": "Khong",
+    "p_id": 16
+  },
+  {
+    "d_id": 1701,
+    "d_name": "ໄຊເສດຖາ",
+    "d_name_en": "Xaysettha",
+    "p_id": 17
+  },
+  {
+    "d_id": 1702,
+    "d_name": "ສາມະຄີໄຊ",
+    "d_name_en": "Samakkixay",
+    "p_id": 17
+  },
+  {
+    "d_id": 1703,
+    "d_name": "ສະໜາມໄຊ",
+    "d_name_en": "Sanamxay",
+    "p_id": 17
+  },
+  {
+    "d_id": 1704,
+    "d_name": "ສານໄຊ",
+    "d_name_en": "Sanxay",
+    "p_id": 17
+  },
+  {
+    "d_id": 1705,
+    "d_name": "ພູວົງ",
+    "d_name_en": "Phouvong",
+    "p_id": 17
+  },
+  {
+    "d_id": 1801,
+    "d_name": "ອານຸວົງ",
+    "d_name_en": "Anouvong",
+    "p_id": 18
+  },
+  {
+    "d_id": 1802,
+    "d_name": "ທ່າໂທມ",
+    "d_name_en": "Thathom",
+    "p_id": 18
+  },
+  {
+    "d_id": 1803,
+    "d_name": "ລ້ອງແຈ້ງ",
+    "d_name_en": "Longcheng",
+    "p_id": 18
+  },
+  {
+    "d_id": 1804,
+    "d_name": "ຮົ່ມ",
+    "d_name_en": "Hom",
+    "p_id": 18
+  },
+  {
+    "d_id": 1805,
+    "d_name": "ລ້ອງຊານ",
+    "d_name_en": "Longsan",
+    "p_id": 18
+  }
+]
